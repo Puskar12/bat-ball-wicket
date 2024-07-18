@@ -1,0 +1,34 @@
+body {
+  text-align: center;
+  background-color: rgb(228, 180, 23);
+}
+
+.choice-button {
+  height: 100px;
+  width: 100px;
+  border: none;
+  margin: 10px;
+  background-color: rgb(6, 196, 229);
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.choice-image {
+  height: 75px;
+}
+.restart-button{ 
+  margin-top: 50px;
+  background-color: #f21212;
+  color: rgb(250, 250, 250);
+  height: 40px;
+  width: 100px;
+  border-color: rgb(246, 242, 242);
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+ }
+ #score{
+  margin-top: 30px;
+  font-size: 22px;
+ }
